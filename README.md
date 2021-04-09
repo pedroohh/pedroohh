@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @pedroohh and i'm learning about data science....
-- 👀 I’m interested in librarie's python.
+- 👀 I’m interested in Python libraries.
